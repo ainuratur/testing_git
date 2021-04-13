@@ -2,4 +2,4 @@
 
 a- rnorm(100)
 
-hist(a)
+hist(a, xlim=c(-2,2))
